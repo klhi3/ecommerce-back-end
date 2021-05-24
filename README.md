@@ -24,17 +24,19 @@ This is a back end for the e-commerce website that use Express.js API
 ## Portfolio
 
 
-* ![“how to create the schema from the MySQL shell”](../assets/images/page.gif)
+* how to create the schema from the MySQL shell:<br>
+<img src="./assets/images/page.gif" width="200" />
 
-* !["how to seed the database from the command line”](../assets/images/page1.gif)
 
-* ![how to start the application’s server”](../assets/images/page2.gif)
+* !["how to seed the database from the command line”](./assets/images/page1.gif)
 
-* ![GET routes for all categories, all products, and all tags being tested in Insomnia Core : GET tags,” “GET Categories,” and “GET All Products”](../assets/images/page3.gif)
+* ![how to start the application’s server”](./assets/images/page2.gif)
 
-* ![GET routes for a single category, a single product, and a single tag being tested in Insomnia Core: “GET tag by id,” “GET Category by ID,” and “GET One Product”](../assets/images/page4.gif)
+* ![GET routes for all categories, all products, and all tags being tested in Insomnia Core : GET tags,” “GET Categories,” and “GET All Products”](./assets/images/page3.gif)
 
-* ![POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core: “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.””](../assets/images/page5.gif)
+* ![GET routes for a single category, a single product, and a single tag being tested in Insomnia Core: “GET tag by id,” “GET Category by ID,” and “GET One Product”](./assets/images/page4.gif)
+
+* ![POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core: “DELETE Category by ID,” “CREATE Category,” and “UPDATE Category.””](./assets/images/page5.gif)
 
 
 ## Links
