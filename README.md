@@ -12,7 +12,7 @@ This is a back end for the e-commerce website that use Express.js API
 2) `schema.sql` file in the `db` folder to create your database with MySQL shell commands
 3) connect to a database using Sequelize
 4) enter schema and seed commands
-5) create a development database and is seeded with test data
+5) create a development database and is seeded with test data : npm run seed
 6) run the command to invoke the application : npm start
 7) the server is started and the Sequelize models are synced to the MySQL database
 8) open API GET routes in Insomnia Core for categories, products, or tags
@@ -27,8 +27,8 @@ This is a back end for the e-commerce website that use Express.js API
 * how to create the schema from the MySQL shell:<br>
 <img src="./assets/images/page.gif" width="200" />
 
-
-* !["how to seed the database from the command line”](./assets/images/page1.gif)
+* how to seed the database from the command line:<br>
+<img src="./assets/images/page1.gif" width="200" />
 
 * ![how to start the application’s server”](./assets/images/page2.gif)
 
