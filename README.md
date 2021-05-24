@@ -33,7 +33,8 @@ This is a back end for the e-commerce website that use Express.js API
 * how to start the application’s server:<br>
 <img src="./assets/images/page2.gif" width="200" />
 
-* ![GET routes for all categories, all products, and all tags being tested in Insomnia Core : GET tags,” “GET Categories,” and “GET All Products”](./assets/images/page3.gif)
+* GET routes for all categories, all products, and all tags being tested in Insomnia Core : GET tags,” “GET Categories,” and “GET All Products:<br>
+<img src="./assets/images/page3.gif" width="200" />
 
 * ![GET routes for a single category, a single product, and a single tag being tested in Insomnia Core: “GET tag by id,” “GET Category by ID,” and “GET One Product”](./assets/images/page4.gif)
 
